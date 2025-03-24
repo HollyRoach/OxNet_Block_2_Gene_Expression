@@ -1,7 +1,7 @@
 # OxNet Science Programme: Gene Expression
 
 This is the README file for the OxNet Science Programme seminar delivered by Holly Roach about X chromosome inactivation.
-If you are on the OxNet programme and have any questions about the data or code, please talk to the OxNet support team or get in touch with Holly Jones (OxNet Science Coordinator).
+If you are on the OxNet programme and have any questions about the data or code, please talk to the OxNet support team or get in touch with Paddy McDevitt (OxNet Science Coordinator).
 
 # Code
 
@@ -19,10 +19,5 @@ However, you will likely find it easier to write your own code in a new notebook
 
 To get started with the homework, follow the steps below:
 
-1. Log on to SageMaker Studio Lab, start the runtime, and open your project.
-2. Click the "Git" button at the top and select "Clone Git Repository"
-3. This will pop up a dialogue box. In the empty field ("Git repository URL (.git):") paste the following: https://github.com/HollyRoach/OxNet_Block_2_Gene_Expression
-4. Uncheck the box after "Search for environment.yml and build Conda environment." (but leave the other one checked).
-5. Click the blue Clone button
-
-This will copy the Python activity files into your project and open this README file.
+1. Log on to your DataLab account
+2. Once in DataLab, please click on the Import from GitHub icon at the bottom of the page, where you can entre the name of the workbook and guthub url: https://github.com/HollyRoach/OxNet_Block_2_Gene_Expression
